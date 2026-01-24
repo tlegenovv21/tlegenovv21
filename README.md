@@ -7,16 +7,17 @@ I am a Cybersecurity student at **Astana IT University** in Astana, Kazakhstan. 
 ## Skills
 
 ### Development Stack
-* ☕ **Languages:** C++, Python, Java, SQL, PHP, OracleDB
+* ☕ **Languages:** C++, Python, Java, SQL, PHP, OracleDB, Flutter
 * 🌐 **Web:** JavaScript, HTML, CSS
-* 🎨 **Design:** Figma, Adobe Photoshop
+* 🎨 **Design:** Figma, Adobe Photoshop, Canva
 
 ### Security & Networking
 * 🔒 **Network Analysis:** Wireshark, Linux, Threat Analysis
-* 🛡️ **Platforms:** TryHackMe
+* 🛡️ **Platforms:** TryHackMe, icmp
 * 📡 **Networking:** Device Configuration, TCP/UDP, IP Addressing (Cisco)
 
 ### Certifications & Achievements
-* 📜 **Cisco:** Cybersecurity Essentials, Networking Basics
+* 📜 **Cisco:** Cybersecurity Essentials, Networking Basics, Intro to Cybersecurity
 * 🤖 **Huawei:** Artificial Intelligence and Applications
 * 🏆 **SpaceHack 2024:** Team Leader (Aerospace Engineering concepts)
+* ✨ **TryHackMe:** Pre Security
